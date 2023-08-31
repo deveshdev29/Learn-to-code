@@ -5,4 +5,4 @@ print(greeting+name)
 
 # Slicing
 print(name[0])
-print(name[0:2]) #excludes 2 index 
+print(name[0:2]) #excludes 2 index
